@@ -1,13 +1,12 @@
-#Project in PostgreSQL 
+# Project in PostgreSQL
 
-#Student management system
+## Student Management System
 
-##ABOUT
+### ABOUT
 
-This is a project for beginners to learn database. 
-This is a project for a student management system. 
-Using the code, first I create the students, courses and enrollments tables. 
-Next, we go into the data for these tables and associate the foreign key of the enrollments table with the students, courses tables.
+This is a project for beginners to learn databases. It represents a student management system. Using the code, I first create the students, courses, and enrollments tables. Then, I insert data into these tables and associate the foreign key in the enrollments table with the students and courses tables.
 
-##Files
-On the main file I made and tested the codes and on the step I wrote all the correct codes that I wrote
+### Files
+
+- **main.sql**: This file contains and tests all the necessary SQL commands.
+- **step.sql**: This file outlines the correct SQL commands that were used.
