@@ -1,5 +1,7 @@
 #Project in PostgreSQL 
+
 #Student management system
+
 ##ABOUT
 
 This is a project for beginners to learn database. 
