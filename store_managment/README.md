@@ -1,6 +1,6 @@
 # Project in PostgreSQL
 
-## Student Management System
+## Online store order Management System
 
 ### ABOUT
 
